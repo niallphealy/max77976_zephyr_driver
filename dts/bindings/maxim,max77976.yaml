@@ -1,0 +1,5 @@
+description: Maxim MAX77976 charger
+
+include: ["battery.yaml", "i2c-device.yaml"]
+
+compatible: "maxim,max77976"

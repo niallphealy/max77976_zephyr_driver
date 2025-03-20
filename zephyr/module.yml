@@ -1,0 +1,6 @@
+name: MAX77976 charger driver
+build:
+  cmake: .
+  kconfig: Kconfig
+  settings:
+    dts_root: .
