@@ -1,1 +1,1 @@
-add_subdirectory_if_def(CONFIG_MAX77976 max77976)
+add_subdirectory_ifdef(CONFIG_MAX77976 max77976)
